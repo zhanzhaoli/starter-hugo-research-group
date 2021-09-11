@@ -5,7 +5,7 @@
 
 title: Zhanzhao Li # Website name
 baseurl: 'https://zhanzhaoli.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright © 2021-present Zhanzhao Li' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
