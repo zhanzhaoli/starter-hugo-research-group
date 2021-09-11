@@ -9,6 +9,5 @@ featured: false
 publication: "*Sustainability*"
 tags: ["3D-printing", "Additive manufacturing", "Cementitious materials", "Fresh properties", "Hardened properties", "Mix design"]
 doi: "10.3390/su12145628"
-url_pdf: content\publication\pdf\Fresh and hardened properties of extrusion-based 3D-printed cementitious materials A review.pdf
 ---
 
