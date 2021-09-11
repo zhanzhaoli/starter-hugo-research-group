@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Concrete Engineering International*"
+url_pdf: content\publication\pdf\Towards 3D-printable cementitious materials on Earth and beyond.pdf
 ---
 
