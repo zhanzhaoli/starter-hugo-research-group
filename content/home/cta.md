@@ -1,4 +1,4 @@
----
+<!-- ---
 title:
 subtitle:
 widget: blank
@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}} -->

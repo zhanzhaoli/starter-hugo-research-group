@@ -13,8 +13,8 @@ organizations:
 - name: Penn State University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Aggregate Reactions
@@ -71,6 +71,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Zhanzhao Li is a Ph.D. Candidate of civil engineering at Penn State University. His research interests include aggregate reactions, machine learning, 3D-printing of concrete. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhanzhao Li is a PhD student in the Department of Civil and Environmental Engineering at the Pennsylvania State University, University Park, PA. He received his BEng from Harbin Institute of Technology, Harbin, China. His research interests include 3D-printing of construction materials and durability of concrete. -->
