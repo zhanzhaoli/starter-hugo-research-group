@@ -71,6 +71,6 @@ user_groups:
 - Researchers
 ---
 
-<!-- Zhanzhao Li is a Ph.D. Candidate of civil engineering at Penn State University. His research interests include aggregate reactions, machine learning, 3D-printing of concrete. 
+Zhanzhao Li is a Ph.D. Candidate of civil engineering at Penn State University. His research interests include aggregate reactions, machine learning, 3D-printing of concrete. 
 
-Zhanzhao Li is a PhD student in the Department of Civil and Environmental Engineering at the Pennsylvania State University, University Park, PA. He received his BEng from Harbin Institute of Technology, Harbin, China. His research interests include 3D-printing of construction materials and durability of concrete. -->
+Zhanzhao Li is a PhD student in the Department of Civil and Environmental Engineering at the Pennsylvania State University, University Park, PA. He received his BEng from Harbin Institute of Technology, Harbin, China. His research interests include 3D-printing of construction materials and durability of concrete.
