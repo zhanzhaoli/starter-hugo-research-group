@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: ocean
+theme: PennStateBlue
 day_night: false
-font: rose
+font: Rose
 font_size: L
 
 # SEO
@@ -15,7 +15,7 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-# description: My research group description.
+description: Towards sustainable concrete
 twitter: ''
 
 # Contact (edit or remove options as required)

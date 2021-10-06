@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zzl244@psu.edu'
+  link: 'mailto:zzl244@psu.edu'
 - icon: researchgate
   icon_pack: fab
   link: 'https://www.researchgate.net/profile/Zhanzhao-Li'
@@ -73,4 +73,6 @@ user_groups:
 
 <!-- Zhanzhao Li is a Ph.D. Candidate of civil engineering at Penn State University. His research interests include aggregate reactions, machine learning, 3D-printing of concrete.  -->
 
-I am currently a third-year graduate student in the [Department of Civil and Environmental Engineering](https://www.cee.psu.edu/) at the [Pennsylvania State University](https://www.psu.edu/), University Park, PA. I am part of the Cementitious Materials Research Group, supervised by [Dr. Aleksandra Radlińska](http://radlinska.weebly.com/). I received my B.Eng. from [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China. My research interests lie in the development, evaluation, and implementation of advanced concrete materials by using computational and experimental approaches.
+I am currently a third-year graduate student in the [Department of Civil and Environmental Engineering](https://www.cee.psu.edu/) at the [Pennsylvania State University](https://www.psu.edu/), University Park, PA. I am part of the Cementitious Materials Research Group, supervised by [Dr. Aleksandra Radlińska](http://radlinska.weebly.com/). I received my B.Eng. from [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China. 
+
+My research interests lie in the development, evaluation, and implementation of advanced concrete materials by using computational and experimental approaches.

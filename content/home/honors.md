@@ -1,5 +1,5 @@
 ---
-title: Honors and Awards
+title: Honors & Awards
 
 weight: 40
 
