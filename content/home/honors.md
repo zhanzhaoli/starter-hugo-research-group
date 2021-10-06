@@ -1,6 +1,7 @@
 ---
 title: Honors and Awards
-view: 4
+
+weight: 40
 
 header:
   caption: ""
@@ -17,7 +18,7 @@ header:
 *	First Prize in the 10th National BIM Competition (Top 1%),	2017
 *	Nubia Scholarship (Top 1/193),	2016
 
----
+<!-- ---
 *	Leo P. Russell Graduate Fellowship in Civil Engineering, The Pennsylvania State University, 2021
 *	Glenn E. Singley Memorial Graduate Fellowship in Engineering, The Pennsylvania State University, 2019
 *	Outstanding Senior Award, Harbin Institute of Technology, 2019
@@ -25,4 +26,4 @@ header:
 *	China National Scholarship (*Highest-level scholarship, top 0.2%*), Ministry of Education of the People's Republic of China, 2018
 *	Academic Innovation Scholarship (Top 2/189), Harbin Institute of Technology, 2017
 *	First Prize in the 10th National BIM Competition (Top 1%), China Graphics Society, 2017
-*	Nubia Scholarship (Top 1/193), Harbin Institute of Technology, 2016
+*	Nubia Scholarship (Top 1/193), Harbin Institute of Technology, 2016 -->
