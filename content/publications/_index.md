@@ -6,5 +6,7 @@ header:
   caption: ""
   image: ""
 
-headless: true
 ---
+
+{{< cite page="publication/li-2021-b" view="4" >}}
+{{< cite page="publication/li-2020" view="4" >}}
